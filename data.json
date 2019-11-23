@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "id": 8721,
+      "quote": "We must accept finite disappointment, but we must never lose infinite hope.",
+      "author": "Martin Luther King"
+    },
+    {
+      "id": 5779,
+      "quote": "Use what you’ve been through as fuel, believe in yourself and be unstoppable!",
+      "author": "Yvonne Pierre"
+    },
+    {
+      "id": 3406,
+      "quote": "a new quote",
+      "author": "new author"
+    },
+    {
+      "quote": "Hello",
+      "author": "Joe",
+      "id": 8955
+    },
+    {
+      "quote": "a new quote",
+      "author": "Joe",
+      "id": 9122
+    },
+    {
+      "quote": "a new quote",
+      "author": "Joe",
+      "id": 1727
+    },
+    {
+      "quote": "a new quote",
+      "author": "Joe",
+      "id": 3152
+    }
+  ]
+}
